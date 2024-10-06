@@ -1,0 +1,1 @@
+vsim -c -l vsim.log -do run.do
